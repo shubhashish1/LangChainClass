@@ -1,0 +1,7 @@
+langchain
+python-dotenv # This is to extract all the secrets provided in the .env env variables
+langchain-openai # As we are using openai in langchain hence we need it
+langchain-community # This is used to get the external apis or vectorestores to interact with langchain
+langchain-core # This is used to have different different integration to langchain
+bs4
+faiss-cpu
